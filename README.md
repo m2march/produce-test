@@ -1,4 +1,4 @@
-Small test proyect to see if texttheater/produce automation tool can help write
+Small test project to see if texttheater/produce automation tool can help write
 generic recipes for producing all results for all cases in various datasets for
 various models. The objective was to be able to do that in a way that looked 
 descriptive and without have to write one target rule for each dataset/model
